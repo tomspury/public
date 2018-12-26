@@ -5,7 +5,7 @@ TOMSPURY is spreading all over the world.
 
 
 Github Install
-$ install https://github.com/tomspury/public.git
+$ git clone https://github.com/tomspury/public.git
 
 
 TOMSPURY currently supports the following operating systems:
